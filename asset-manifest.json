@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/-lifescope-app/static/css/main.57bce071.css",
+    "main.js": "/-lifescope-app/static/js/main.aa475fe2.js",
+    "static/js/453.20359781.chunk.js": "/-lifescope-app/static/js/453.20359781.chunk.js",
+    "index.html": "/-lifescope-app/index.html",
+    "main.57bce071.css.map": "/-lifescope-app/static/css/main.57bce071.css.map",
+    "main.aa475fe2.js.map": "/-lifescope-app/static/js/main.aa475fe2.js.map",
+    "453.20359781.chunk.js.map": "/-lifescope-app/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57bce071.css",
+    "static/js/main.aa475fe2.js"
+  ]
+}
